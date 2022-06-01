@@ -16,5 +16,5 @@ Very Simple examples of tree traversal with custom implementation.
 
 ## What does this repo have?
 Implementations of 
-[x] Breath first search 
-[x] Depth first search
+- [x] Breath first search 
+- [x] Depth first search
